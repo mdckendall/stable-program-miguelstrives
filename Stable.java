@@ -18,4 +18,3 @@ class Stable {
     return horses.get(i);
   }
 }
-//Create the Stable class here.
